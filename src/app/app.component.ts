@@ -1,3 +1,4 @@
+///<reference path="../../node_modules/@types/jquery/index.d.ts"/>
 import { Component } from '@angular/core';
 
 @Component({
@@ -6,9 +7,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'd=ng su1!';
+  title = 'd=ng!';
 
-  test(){
-
-  }
 }

@@ -19,7 +19,7 @@ import { ProductComponent } from './product/product.component';
     SearchComponent,
     CarouselComponent,
     StarsComponent,
-    ProductComponent
+    ProductComponent,
   ],
   imports: [
     BrowserModule,
